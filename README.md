@@ -1,4 +1,4 @@
-# apple-dev-dashboard-js
+# JS Apple Dev Dashboard
 
 ## bug-tracking tool for apple devs that hooks into the Radar bug-tracking system
 
